@@ -1,9 +1,9 @@
 ### Bullockcart-Creation
 
-###Aim:
+### Aim:
 To creat a scene of moving Bullockcart.
 
-###Procedure:
+### Procedure:
 1.Start the process by creating a rectanlge and extruding it.
 2.Make side fences and combine all of them.
 3.select all the elements to make the cart and group them into one.
@@ -15,9 +15,9 @@ To creat a scene of moving Bullockcart.
 9.Make the moving gestures for the bull and the cart.
 10.It can be done by creating frames for each individual item.
 
-##Output
+### Output
 https://www.youtube.com/watch?v=OHOQfR-EaNI
 ![(1) Bullockcart Creation - YouTube - Brave 09-12-2022 20_10_21](https://user-images.githubusercontent.com/75235022/206726998-6e7e1968-7277-41c4-aefd-c9b6e4e54810.png)
 
-##Result
+### Result
 Therefore a Bullockcart is created successfully.
